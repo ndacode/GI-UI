@@ -64,3 +64,111 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+nav {
+	display: inline-block;
+	margin: 30px;
+}
+
+nav a {
+	text-decoration: none;
+	color: grey;
+	padding: 25px;
+}
+
+nav .logo {
+	display: inline-block;
+	width: 900px;
+}
+
+header {
+	width: 900px;
+	
+}
+
+header .cta {
+	display: inline-block;
+	text-align: center;
+	width: 450px;
+}
+
+header img {
+	display: inline-block;
+	width: 300px;
+	height: 225;
+	margin: 0px 20px 20px 40px;
+}
+
+h1 {
+	font-size: 70px;
+	text-align: center;
+	height: 50px;
+}
+
+.AboutIOD {
+	width: 1000px;
+}
+
+.Features {
+	display: inline-block;
+	align-content: left;
+	margin: 30px;
+	width: 40%;
+}
+
+.About {
+	display: inline-block;
+	align-content: right;
+	margin: 25px;
+	width: 40%;
+}
+
+.middle-img {
+	display: inline-block;
+	align-items: center;
+	margin: 30px;
+}
+
+.ServiceProductVision {
+	display: inline-block;
+	align-content: center;
+	margin: 10px;
+	width: 1000px;
+}
+
+.Services {
+	display: inline-block;
+	align-content: left;
+	margin: 20px;
+	width: 250px;
+}
+
+.Product {
+	display: inline-block;
+	align-content: center;
+	margin: 20px;
+	width: 250px;
+}
+
+.Vision {
+	display: inline-block;
+	align-content: right;
+	margin: 20px;
+	width: 250px;
+}
+
+address {
+	display: inline-block;
+	align-items: left;
+	margin: 30px;
+}
+
+hr {
+	margin:30px;
+	width: 900px;
+}
+
+footer {
+	text-align: center;
+	width: 1000px;
+}

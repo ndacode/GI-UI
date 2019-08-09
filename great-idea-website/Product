@@ -22,8 +22,8 @@
     <a href="features">Features</a>
     <a href="about">About</a>
     <a href="contact">Contact</a>
+    <img class="logo" src="img/logo.png" alt="Great Idea! Company logo.">
   </nav>
-  <img class="logo" src="img/logo.png" alt="Great Idea! Company logo.">
 
   <header>
     <div class ="cta">
@@ -34,7 +34,6 @@
     </div>
     <img src="img/header-img.png" alt="Image of a code snippet.">
   </header>
-  
   <hr>
   <section class="AboutIOD">
       <div class="Features">
